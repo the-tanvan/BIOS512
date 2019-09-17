@@ -6,4 +6,4 @@ Notebook:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-tanvan/BIOS512/master)
 
 Lab:  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/changon/the-tanvan/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-tanvan/master?urlpath=lab)
