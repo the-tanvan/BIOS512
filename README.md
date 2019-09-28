@@ -1,6 +1,6 @@
-# Bios 512
+# BIOS 512: Data Science Basics
 
-[Link to NBViewer for assignments](https://nbviewer.jupyter.org/github/the-tanvan/BIOS512)
+[Link to NBViewer](https://nbviewer.jupyter.org/github/the-tanvan/BIOS512)
 
 Notebook:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/the-tanvan/BIOS512/master)
