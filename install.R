@@ -1,1 +1,3 @@
-install.packages('plotly')
+install.packages("ggrepel")
+install.packages("gapminder")
+install.packages("plotly")

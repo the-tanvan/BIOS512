@@ -9,9 +9,8 @@ COPY install.R ./
 RUN R -f install.R
 
 USER root
-COPY in-class-exercises ${HOME}/in-class-exercises
 COPY assignments ${HOME}/assignments
-COPY lectures ${HOME}/lectures
+COPY class-materials ${HOME}/class-materials
 COPY notes ${HOME}/notes
 RUN chown -R ${NB_USER} ${HOME}
 
