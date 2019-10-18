@@ -1,6 +1,6 @@
 # Table of Contents:
-** Assignment 01 **
+**Assignment 01**
 * Basic ggplot
 
-** Assignment 02 **
+**Assignment 02**
 * Recreate scatterplot
