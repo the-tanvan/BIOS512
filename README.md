@@ -39,7 +39,7 @@ Lab:
 * 07_practice_marathon_figure
 
 **Lecture 08**
-08_lecture_dplyr_introduction
+* 08_lecture_dplyr_introduction
 * 08_practice_arrange_and_mutate
 
 **Lecture 09**
