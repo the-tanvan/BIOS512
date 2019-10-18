@@ -10,6 +10,8 @@ Lab:
 
 # Table of Contents
 
+**Lecture 01**
+* 01_lecture - Introduction to Course
 **Lecture 02**
 * 02_lecture_ggplot2
 * 02_lecture_jupyter
