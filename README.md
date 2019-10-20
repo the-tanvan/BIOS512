@@ -12,15 +12,23 @@ Lab:
 
 **Lecture 01**
 * 01_lecture - Introduction to Course
+
 **Lecture 02**
 * 02_lecture_ggplot2
+  * Basics of ggplot
+    * Creating ggplot object
+    * Set x and y
+    * Color by
 * 02_lecture_jupyter
+  * Differences between Jupyter Lab and Notebook
 * 02_practice_lab
 * 02_practice_notebook
 * 02_practice_ggplot2
 
 **Lecture 03**
 * 03_lecture_github
+* 03_lecture_markdown
+* 03_lecture_multiple_plots
 * 03_practice_markdown
 
 **Lecture 04**
